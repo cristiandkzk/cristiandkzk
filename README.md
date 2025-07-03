@@ -16,7 +16,7 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 
 ## 📄 Mi CV
 
-📥 [Descargar CV en PDF](./CV_Cristian_Diaz.md) Modificar a extension a PDF
+📥 [Descargar CV en PDF](./CV_Cristian_Diaz.pdf)
 
 ## 🌐 Contacto
 
