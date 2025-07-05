@@ -7,12 +7,12 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 
 ## 🛠 Habilidades técnicas
 
-- Soporte técnico presencial y remoto (200+ usuarios)
+- Soporte técnico presencial a CEO y remoto (500+ usuarios)
 - Sistemas operativos: Windows, GNU/Linux
 - Infraestructura: LAN, VPN, videoconferencias Lenovo VC
-- Software: Petrel, GeoFrame, ArcGIS, Landmark, Outlook, Office
+- Software: Petrel, GeoFrame, ArcGIS, Landmark, Outlook, Office, SAP
 - Migraciones: Windows/Linux, imágenes personalizadas, inventario
-- Herramientas de colaboración: MTR, Teams, Lotus Notes
+- Herramientas de colaboración: MTR, Teams, Outlook, Ticketereas
 
 ## 📄 Mi CV
 
