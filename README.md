@@ -22,5 +22,5 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 ## 🌐 Contacto
 
 - 📧 cristiandkzk@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/cristiandkzk/?
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cristiandkzk/)
 - 📍 San Isidro, GBA, Argentina
