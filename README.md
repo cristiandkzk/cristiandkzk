@@ -1,4 +1,4 @@
-
+ki
 # 👨‍💻 Cristian Gonzalo Díaz
 
 🎯 Técnico Informático con más de 10 años de experiencia en soporte IT en el sector energético.  
@@ -16,7 +16,7 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 
 ## 📄 Mi CV
 
-- 📥 [Ver o Descargar CV en PDF](./CV_Cristian_Diaz_2 (2))
+- 📥 [Ver o Descargar CV en PDF](./CV_Cristian_Diaz_)
 - 📥 [Descargar CV en DOCX](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_txt.docx)
 
 ## 🌐 Contacto
