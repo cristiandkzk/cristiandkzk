@@ -15,7 +15,7 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 
 ## 📄 Mi CV
 - 📥 [Ver o Descargar CV](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV%20Cristian%20Diaz.png)
-- 📥 [Descargar CV en PDF](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_.pdf)
+- 📥 [Descargar CV en PDF](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV%20Cristian%20Diaz.pdf)
 - 📥 [Descargar CV en DOCX](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_txt.docx)
 
 ## 🌐 Contacto
