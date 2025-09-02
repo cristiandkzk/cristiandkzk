@@ -14,8 +14,9 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 - Herramientas de colaboración: MTR, Teams, Outlook, Ticketereas
 
 ## 📄 Mi CV
-
-- 📥 [Ver o Descargar CV en PDF](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_.pdf)
+- 📥 [Ver o Descargar CV](/cristiandkzk
+/CV Cristian Diaz.png)
+- 📥 [Descargar CV en PDF](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_.pdf)
 - 📥 [Descargar CV en DOCX](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Diaz_txt.docx)
 
 ## 🌐 Contacto
