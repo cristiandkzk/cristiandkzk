@@ -17,7 +17,7 @@ Lideré proyectos de infraestructura y optimización de procesos en entornos exi
 - 📥 [Ver o Descargar CV](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV%20Cristian%20Diaz.png)
 - 📥 [Descargar CV en PDF](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV%20Cristian%20Diaz.pdf)
 - 📥 [Descargar CV ATS-Esp](https://github.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Gonzalo_Diaz_ATS_EN_1.docx)
-- 📥 [Descargar CV ATS-Eng](https://raw.githubusercontent.com/cristiandkzk/cristiandkzk/blob/main/CV_Cristian_Gonzalo_Diaz_ATS_ES_1.docx)
+- 📥 [Descargar CV ATS-Eng](https://raw.githubusercontent.com/cristiandkzk/blob/main/CV_Cristian_Gonzalo_Diaz_ATS_ES_1.docx)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/cristiandkzk/)
 - 📍 San Isidro, GBA, Argentina
